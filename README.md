@@ -6,4 +6,4 @@
 
 ### Hi, I'm a student in the SEP program at HSTAT! Some hobbies I have are drawing, playing games, reading, and listening to music. 
 
-### My schedule starts with Algebra, then SEP, AP English, APUSH, Service, Lunch, Physics, and finally, Spanish.
+### My schedule starts with Algebra, then SEP, AP English, APUSH, Service, Lunch, Physics, _and finally_, Spanish.
