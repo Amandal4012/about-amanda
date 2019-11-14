@@ -13,4 +13,12 @@
 * reading
 * listening to music
 
-### My schedule starts with Algebra, then SEP, AP English, APUSH, Service, Lunch, Physics, _and finally_, Spanish.
+### My schedule starts with:
+1. Algebra
+2. SEP
+3. AP English
+4. APUSH
+5. Service
+6. Lunch
+7. Physics
+8. _And finally_, Spanish.
