@@ -3,16 +3,15 @@
 ## amandal4012@hstat.org
 
 # High School of Telecommunications Art and Technology
-[Check out the website!] (www.hstat.org)
+[Check out the website!](https://www.hstat.org)
 
-### Hi, I'm a student in the SEP program at HSTAT! 
-
-### Some hobbies I have are:
+#### Hi, I'm a student in the SEP program at HSTAT!   
+#### I'm a junior, learning how to use Git in the Command Line.
+### Some hobbies I have are:    
 * drawing 
 * playing games
 * reading
-* listening to music
-
+* listening to music 
 ### My schedule starts with:
 1. Algebra
 2. SEP
