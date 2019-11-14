@@ -1,4 +1,4 @@
-# Amanda Lum
+# **Amanda Lum**
 
 ## amandal4012@hstat.org
 
