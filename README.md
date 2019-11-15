@@ -10,6 +10,7 @@
 ### Some hobbies I have are:    
 ------------------------------------------------------------------  
 * drawing 
+    * I love painting and doodling!
 * playing games
 * reading
 * listening to music 
